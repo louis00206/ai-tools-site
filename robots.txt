@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://aitools2026.tools/sitemap.xml
+Sitemap: https://www.aitools2026.tools/sitemap.xml
